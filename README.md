@@ -71,4 +71,4 @@
 
 <a href="https://instagram.com/VfarzadV"><img src="https://github.com/VfarzadV/VfarzadV/blob/main/insta-icon.png?raw=true" /></a>
 <a href="https://t.me/VfarzadV"><img src="https://github.com/VfarzadV/VfarzadV/blob/main/telegram-icon.png?raw=true" /></a>
-<a href="[farzadvatandoust.ps@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=farzadvatandoust.ps@gmail.com)"><img src="https://github.com/VfarzadV/VfarzadV/blob/main/gmail-icon.png?raw=true" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=farzadvatandoust.ps@gmail.com"><img src="https://github.com/VfarzadV/VfarzadV/blob/main/gmail-icon.png?raw=true" /></a>
