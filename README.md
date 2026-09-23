@@ -92,8 +92,8 @@ const farzad: DeveloperProfile = {
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Movie Explorer** | Web application for exploring movies, reviews & ratings | `React` `TypeScript` `TMDB API` | [Demo](#) / [Repo](#) |
-| **Premium Shop** | E-commerce front-end application optimized for SEO | `Next.js` `Tailwind` `Zustand` | [Demo](#) / [Repo](#) |
+| **Movie Explorer** | Web application for exploring movies, reviews & ratings | `React` `TypeScript` `TMDB API` | [Demo](https://movie-explorer-demo.vercel.app) / [Repo](https://github.com/VfarzadV/movie-explorer) |
+| **Premium Shop** | E-commerce front-end application optimized for SEO | `Next.js` `Tailwind` `Zustand` | [Demo](https://premium-shop-rho.vercel.app) / [Repo](https://github.com/VfarzadV/my-premium-shop) |
 
 <br>
 <p align="center">
@@ -125,7 +125,10 @@ const farzad: DeveloperProfile = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VfarzadV&theme=tokyonight" width="50%" alt="GitHub Details" />
+</p>
 
 <br>
 <p align="center">
